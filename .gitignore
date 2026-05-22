@@ -1,0 +1,25 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Build outputs
+build/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+*.out
+
+# Temporary files
+*.tmp
+*.bak
+~$*
