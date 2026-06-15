@@ -5,6 +5,9 @@ Desktop.ini
 # Obsidian local settings
 .obsidian/
 
+# Obsidian trash
+.trash/
+
 # IDE/editor files
 .idea/
 .vscode/

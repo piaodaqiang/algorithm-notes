@@ -6,9 +6,9 @@
 
 这次两个案例主要学习的是：
 
-- 用 ==`char`== 数组保存字符串。
-- 字符串末尾需要有结束标记 ==`'\0'`==。
-- 使用 `<cstring>` 里的 ==`strcpy`、`strcat`、`strlen`== 处理字符串。
+- 用 `char` 数组保存字符串。
+- 字符串末尾需要有结束标记 `'\0'`。
+- 使用 `<cstring>` 里的 `strcpy`、`strcat`、`strlen` 处理字符串。
 
 注意：这里整理的是 C 风格字符串，不是后面会学到的 `std::string`。
 
@@ -72,7 +72,7 @@ cout << "site[13]: " << site << endl;
 #include <cstring>
 ```
 
-因为 `strcpy`、`strcat`、`strlen` 来自 ==`<cstring>`==。
+因为 `strcpy`、`strcat`、`strlen` 来自 `<cstring>`。
 
 ### `strcpy`：复制字符串
 
